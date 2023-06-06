@@ -1,0 +1,2 @@
+ninja: Entering directory `/Volumes/MuatazWork/SanDisk/1. Work/Personal/Android/Gihthub Projects/WolfSSL Integration Folders Important/wolfssljni-android_custom_example/IDE/Android/app/.cxx/Debug/51w11352/arm64-v8a'
+ninja: no work to do.
